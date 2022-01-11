@@ -1,0 +1,36 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: rgb(197, 230, 197);
+  text-align: center;
+  color: black;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+#body-squash {
+  background-color: rgb(230, 189, 113);
+}
+
+#body-tuna {
+  background-color: rgb(255, 231, 235);
+}
+
+#body-pork {
+  background-color: rgb(148, 57, 57);
+}
+
+li {
+  list-style-type: square;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.ingredients {
+  text-decoration: underline;
+}
