@@ -5,21 +5,18 @@ body {
   color: black;
 }
 
+h1 {
+  text-decoration: underline;
+  color: green;
+}
+
 a {
   color: black;
   text-decoration: none;
 }
 
-#body-squash {
+#body-recipe {
   background-color: rgb(230, 189, 113);
-}
-
-#body-tuna {
-  background-color: rgb(255, 231, 235);
-}
-
-#body-pork {
-  background-color: rgb(148, 57, 57);
 }
 
 li {
@@ -33,4 +30,15 @@ img {
 
 .ingredients {
   text-decoration: underline;
+}
+
+ol li{
+  list-style: decimal;
+}
+
+.home-link {
+  position: fixed;
+  top: 0;
+  right: 0;
+  font-size: 18px;
 }
